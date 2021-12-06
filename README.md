@@ -1,1 +1,2 @@
-# -connect
+
+newintegration@GitHubBot
